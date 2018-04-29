@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 .App {
   height: 100%;
   width: 100%;
@@ -5,6 +9,7 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 1em;
   margin-top: 20%;
+  color: white;
 }
 
 .title {
@@ -16,4 +21,8 @@
   display: inline;
   margin: .25em;
   font-size: 1.5em;
+}
+
+.inputField {
+  margin: 2em;
 }
